@@ -1,6 +1,6 @@
 export const typeWriter = () => {
     const typewriter = document.querySelector('h1');
-    const text = `A Web Developer on an epic journey to conquer the digital universe </>`;
+    const text = `Software Engineer | Animator | Graphic Designer | Photographer | Videographer </>`;
     const textLength = text.length;
     const cadence = 70;
     let index = 0;
